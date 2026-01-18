@@ -1,4 +1,5 @@
 UIDAI Data Hackathon 2026: Ananlytical Insights into Aadhar Enrolment and Update Operations
+
 📌 Project Overview
 
 This project analyzes Aadhaar enrolment and update datasets provided by UIDAI to identify meaningful patterns, trends, and anomalies. The goal is to transform raw, age-wise operational data into actionable insights that support informed decision-making and system improvements.
@@ -49,18 +50,6 @@ Pandas, NumPy
 
 Matplotlib
 
-Jupyter Notebook
-
-📁 Repository Structure
-├── data/
-│   ├── Monthly_enrolment_data.csv
-│   ├── Monthly_update_data.csv
-│   └── Demographic_monthly_update_data.csv
-├── notebooks/
-│   └── uidai_analysis.ipynb
-├── report/
-│   └── UIDAI_Hackathon_Report.pdf
-└── README.md
 
 ▶️ How to Run
 
